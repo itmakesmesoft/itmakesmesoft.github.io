@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.13ecaeb8.css",
-    "main.js": "/static/js/main.c42f87dd.js",
+    "main.js": "/static/js/main.65bbbe30.js",
     "static/js/584.7e877156.chunk.js": "/static/js/584.7e877156.chunk.js",
     "static/js/157.243a49a6.chunk.js": "/static/js/157.243a49a6.chunk.js",
     "static/js/752.8c6a28b8.chunk.js": "/static/js/752.8c6a28b8.chunk.js",
@@ -21,16 +21,16 @@
     "static/media/Python.svg": "/static/media/Python.744ffb84e4cd8e0d59bd.svg",
     "static/media/JavaScript.svg": "/static/media/JavaScript.63b93412a24001eff2ac.svg",
     "static/media/Tailwind.svg": "/static/media/Tailwind.681db3393706b0b8d30f.svg",
-    "index.html": "/index.html",
     "static/media/Swr.svg": "/static/media/Swr.45e6f1d4dbf9a9c99aca.svg",
     "static/media/Css.svg": "/static/media/Css.d775a84d2e94cdab548c.svg",
+    "index.html": "/index.html",
     "static/media/Html.svg": "/static/media/Html.51305ec564cee03372ec.svg",
     "static/media/Next.js.svg": "/static/media/Next.js.2426e69d99a468ba1535.svg",
     "static/media/Azure.svg": "/static/media/Azure.cbbb50ea7fa1540941d3.svg",
     "static/media/Vue.js.svg": "/static/media/Vue.js.0747f6ef54c1a4334ff0.svg",
     "static/media/FastApi.svg": "/static/media/FastApi.a8ea15acfdd82bb091e5.svg",
     "main.13ecaeb8.css.map": "/static/css/main.13ecaeb8.css.map",
-    "main.c42f87dd.js.map": "/static/js/main.c42f87dd.js.map",
+    "main.65bbbe30.js.map": "/static/js/main.65bbbe30.js.map",
     "584.7e877156.chunk.js.map": "/static/js/584.7e877156.chunk.js.map",
     "157.243a49a6.chunk.js.map": "/static/js/157.243a49a6.chunk.js.map",
     "752.8c6a28b8.chunk.js.map": "/static/js/752.8c6a28b8.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.13ecaeb8.css",
-    "static/js/main.c42f87dd.js"
+    "static/js/main.65bbbe30.js"
   ]
 }
