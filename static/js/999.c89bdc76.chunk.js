@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[999],{9999:(e,s,l)=>{l.r(s),l.d(s,{default:()=>o});var t=l(2791),f=l(7689),c=l(184);const o=e=>{const s=(0,f.s0)();return(0,t.useEffect)((()=>{alert("\uc9c0\uae08 \uc0c1\uc138 \ud398\uc774\uc9c0\ub97c \uc81c\uc791\ud558\uace0 \uc788\uc5b4\uc694. \uc870\uae08\ub9cc \uae30\ub2e4\ub824\uc8fc\uc138\uc694!"),s(-1)}),[]),(0,c.jsx)("div",{className:"w-full flex flex-col items-center"})}}}]);
-//# sourceMappingURL=999.c89bdc76.chunk.js.map
