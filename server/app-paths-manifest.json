@@ -1,0 +1,10 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/works/[id]/page": "app/works/[id]/page.js",
+  "/blog/[category]/[slug]/page": "app/blog/[category]/[slug]/page.js",
+  "/about/page": "app/about/page.js",
+  "/works/page": "app/works/page.js"
+}
